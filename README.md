@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey there! I'm Laureano 👋
+  :mortar_board: Self-taught Front-end Developer.
+  
+   
+  :computer: I’m currently learning JavaScript and looking for my first job as a developer.
+  
+   :smiley: Check my projects 
+   
+  :cyclone: I'm always exploring new technologies.
 
+  :zap: Javascript, HTML5, CSS, Git. 
 <!--
 **LaureanoChort/LaureanoChort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
