@@ -7,7 +7,7 @@
    
   :cyclone: I'm always exploring new technologies.
 
-  :zap: Javascript, HTML5, CSS, Git. 
+  :zap: Javascript, HTML, CSS, Git. 
 <!--
 **LaureanoChort/LaureanoChort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
