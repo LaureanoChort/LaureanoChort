@@ -3,7 +3,7 @@
   
   :computer: I’m currently looking for my first job as a developer.
   
-   :smiley: Check my projects 
+   :smiley: Check out my projects. 
    
   :cyclone: I'm always exploring new technologies.
 
